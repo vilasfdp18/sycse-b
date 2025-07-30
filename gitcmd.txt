@@ -1,0 +1,8 @@
+install git on your local machine.
+git init
+git add .
+git config --global user.email "vilas@gmail.com"
+git config --global user.name "vilas"
+git commit -m  "initial commit"
+git remote add origin https://www. URL
+git push origin main
